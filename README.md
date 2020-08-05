@@ -1,4 +1,4 @@
-# Covid-19-Cases-visualization state wise
+# State wise Covid-19-Cases-visualization 
 In this project i can fatch the real Time covid-19 (Confirmed,Death,Recovered) cases using web scraping and visualize and plot on india map using map coordinates
 libraries i can use to built this project
 
